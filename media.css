@@ -1,0 +1,359 @@
+@media(width: 360px){
+     .home-section .home-right-img img{
+        width: 100%;
+        /* height: 320px; */
+    }
+    .stat-card{
+        margin-bottom: 10px;
+    }
+    .image-two img{
+        /* width: 300px;
+        height: 300px; */
+        width: 100%;
+    }
+    .home-text h1{
+        font-size: 30px;
+    }
+    .home-text p{
+        font-size: 16px;
+    }
+    .home-section ul li a{
+        width: 40px;
+        height: 40px;
+    }
+    .home-section .btn-one{
+        padding: 10px 18px;
+    }
+    .about-section h2{
+        font-size: 25px;
+    }
+    .about-info-box{
+        padding-top: 15px;
+        text-align: center;
+    }
+    .about-section .btn-one{
+        padding: 10px 18px;
+    }
+    .services-section .main-title{
+        font-size: 25px;
+    }
+    .skill-section .main-title-one{
+        font-size: 25px;
+    }
+    .project-section .main-title-two{
+        font-size: 25px;
+    }
+    .contact-section .main-title-three{
+        font-size: 25px;
+    }
+}
+@media(width: 320px){
+    .home-section .home-right-img img{
+        width: 100%;
+        /* height: 290px; */
+    }
+    .stat-card{
+        margin-bottom: 10px;
+    }
+    .image-two img{
+        /* width: 290px;
+        height: 290px; */
+        width: 100%;
+    }
+    .home-text h1{
+        font-size: 30px;
+    }
+    .home-text p{
+        font-size: 16px;
+    }
+    .home-section ul li a{
+        width: 40px;
+        height: 40px;
+    }
+    .home-section .btn-one{
+        padding: 10px 18px;
+    }
+    .about-section h2{
+        font-size: 25px;
+    }
+    .about-info-box{
+        padding-top: 15px;
+        text-align: center;
+    }
+    .about-section .btn-one{
+        padding: 10px 18px;
+    }
+    .services-section .main-title{
+        font-size: 25px;
+    }
+    .skill-section .main-title-one{
+        font-size: 25px;
+    }
+    .project-section .main-title-two{
+        font-size: 25px;
+    }
+    .contact-section .main-title-three{
+        font-size: 25px;
+    }
+}
+@media (width: 375px){
+     .home-section .home-right-img img{
+        width: 100%;
+        /* height: 340px; */
+    }
+    .stat-card{
+        margin-bottom: 10px;
+    }
+    .image-two img{
+        /* width: 290px;
+        height: 290px; */
+        width: 100%;
+    }
+    .home-text h1{
+        font-size: 30px;
+    }
+    .home-text p{
+        font-size: 16px;
+    }
+    .home-section ul li a{
+        width: 40px;
+        height: 40px;
+    }
+    .home-section .btn-one{
+        padding: 10px 18px;
+    }
+    .about-section h2{
+        font-size: 25px;
+    }
+    .about-info-box{
+        padding-top: 15px;
+        text-align: center;
+    }
+    .about-section .btn-one{
+        padding: 10px 18px;
+    }
+    .services-section .main-title{
+        font-size: 25px;
+    }
+    .skill-section .main-title-one{
+        font-size: 25px;
+    }
+    .project-section .main-title-two{
+        font-size: 25px;
+    }
+    .contact-section .main-title-three{
+        font-size: 25px;
+    }
+}        
+@media (width: 390px){
+     .home-section .home-right-img img{
+        width: 100%;
+    }
+    .stat-card{
+        margin-bottom: 10px;
+    }
+    .image-two img{
+        width: 100%;
+    }
+    .home-text h1{
+        font-size: 30px;
+    }
+    .home-text p{
+        font-size: 16px;
+    }
+    .home-section ul li a{
+        width: 40px;
+        height: 40px;
+    }
+    .home-section .btn-one{
+        padding: 10px 18px;
+    }
+    .about-section h2{
+        font-size: 25px;
+    }
+    .about-info-box{
+        padding-top: 15px;
+        text-align: center;
+    }
+    .about-section .btn-one{
+        padding: 10px 18px;
+    }
+    .services-section .main-title{
+        font-size: 25px;
+    }
+    .skill-section .main-title-one{
+        font-size: 25px;
+    }
+    .project-section .main-title-two{
+        font-size: 25px;
+    }
+    .contact-section .main-title-three{
+        font-size: 25px;
+    }
+}
+@media (width: 414px){
+     .home-section .home-right-img img{
+        width: 100%;
+    }
+    .stat-card{
+        margin-bottom: 10px;
+    }
+    .image-two img{
+        width: 100%;
+    }
+    .home-text h1{
+        font-size: 30px;
+    }
+    .home-text p{
+        font-size: 16px;
+    }
+    .home-section ul li a{
+        width: 40px;
+        height: 40px;
+    }
+    .home-section .btn-one{
+        padding: 10px 18px;
+    }
+    .about-section h2{
+        font-size: 25px;
+    }
+    .about-info-box{
+        padding-top: 15px;
+        text-align: center;
+    }
+    .about-section .btn-one{
+        padding: 10px 18px;
+    }
+    .services-section .main-title{
+        font-size: 25px;
+    }
+    .skill-section .main-title-one{
+        font-size: 25px;
+    }
+    .project-section .main-title-two{
+        font-size: 25px;
+    }
+    .contact-section .main-title-three{
+        font-size: 25px;
+    }
+}
+@media (width: 430px){
+     .home-section .home-right-img img{
+       width: 100%;
+    }
+    .stat-card{
+        margin-bottom: 10px;
+    }
+    .image-two img{
+       width: 100%;
+    }
+    .home-text h1{
+        font-size: 30px;
+    }
+    .home-text p{
+        font-size: 16px;
+    }
+    .home-section ul li a{
+        width: 40px;
+        height: 40px;
+    }
+    .home-section .btn-one{
+        padding: 10px 18px;
+    }
+    .about-section h2{
+        font-size: 25px;
+    }
+    .about-info-box{
+        padding-top: 15px;
+        text-align: center;
+    }
+    .about-section .btn-one{
+        padding: 10px 18px;
+    }
+    .services-section .main-title{
+        font-size: 25px;
+    }
+    .skill-section .main-title-one{
+        font-size: 25px;
+    }
+    .project-section .main-title-two{
+        font-size: 25px;
+    }
+    .contact-section .main-title-three{
+        font-size: 25px;
+    }
+}
+@media (width: 412px){
+  .home-section .home-right-img img{
+        width: 100%;
+    }
+    .stat-card{
+        margin-bottom: 10px;
+    }
+    .image-two img{
+        width: 100%;
+    }
+    .home-text h1{
+        font-size: 30px;
+    }
+    .home-text p{
+        font-size: 16px;
+    }
+    .home-section ul li a{
+        width: 40px;
+        height: 40px;
+    }
+    .home-section .btn-one{
+        padding: 10px 18px;
+    }
+    .about-section h2{
+        font-size: 25px;
+    }
+    .about-info-box{
+        padding-top: 15px;
+        text-align: center;
+    }
+    .about-section .btn-one{
+        padding: 10px 18px;
+    }
+    .services-section .main-title{
+        font-size: 25px;
+    }
+    .skill-section .main-title-one{
+        font-size: 25px;
+    }
+    .project-section .main-title-two{
+        font-size: 25px;
+    }
+    .contact-section .main-title-three{
+        font-size: 25px;
+    }
+}
+@media (max-width: 540px){
+    /* .home-text{
+        text-align: center;
+    } */
+    .home-right-img{
+        text-align: center;
+    }
+    .stat-card{
+        margin-bottom: 10px;
+    }
+    .about-info-box{
+        padding-top: 15px;
+        text-align: center;
+    }
+}
+@media (max-width: 640px){
+     .home-right-img{
+        text-align: center;
+    }
+    .stat-card{
+        margin-bottom: 10px;
+    }
+    .about-info-box{
+        padding-top: 15px;
+        text-align: center;
+    }
+}
+
