@@ -462,28 +462,6 @@ width: 320px;
   filter: blur(10px);
   opacity: 0.6;
 }
-.tools-box h5 {
-  font-size: 18px;
-  font-weight: 600;
-  color: #fff;
-}
-.tool-badge {
-  display: inline-block;
-  margin: 6px;
-  padding: 10px 20px;
-  border: 2px solid #00ccff;
-  border-radius: 30px;
-  color: #fff;
-  transition: all 0.3s ease;
-}
-.tool-badge i {
-  color: #00ffaa;
-  margin-right: 6px;
-}
-.tool-badge:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 0 20px rgba(0, 204, 255, 0.4);
-}
 /* Skill Section */
 
 /* Project Section */
